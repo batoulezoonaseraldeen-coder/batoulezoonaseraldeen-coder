@@ -13,7 +13,6 @@
 
 ## 🔭 Current Status
 - 🔭 Currently building: **Hebron University RAG Student Guide** & Data Engineering repositories.
-- 🌱 Learning & Mastering: Data Warehousing, ETL Pipelines, Advanced SQL, and Cloud Data Infrastructure.
 - 💬 Open to: **Internships**, **Junior Data Engineering roles**, and **Open-source Data Projects**.
 
 ---
